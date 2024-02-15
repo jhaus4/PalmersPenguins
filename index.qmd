@@ -1,0 +1,5 @@
+---
+title: "Dr. Hauschild's 378 Project"
+---
+
+This is website is dedicated to producing the labs from *DevOps for Data Science* by Alex K. Gold.

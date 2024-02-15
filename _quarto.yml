@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Dr. Hauschild's 378 Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - eda.qmd
+      - model.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
